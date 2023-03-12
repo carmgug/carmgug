@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I’m Carmelo Gugliotta
-- 🔭 I’m interested in learning new things
-- ⚡ I’m currently attending computer engineering
