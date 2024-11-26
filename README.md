@@ -7,6 +7,6 @@ I am a student specializing in Artificial Intelligence and Machine Learning, dee
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmgug&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmgug&layout=compact&theme=vision-friendly-dark&amp;" style="max-width: 100%;"  />
 </a>
 
