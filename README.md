@@ -18,8 +18,6 @@ I had the privilege of co-developing **NetMax** alongside **[Lorenzo Bloise](htt
 
 **NetMax** is a Python library that provides the implementation of several algorithms for the **Influence Maximization** problem in social networks. It also addresses the **Competitive Influence Maximization** problem, modeled as an extensive-form strategic game.  
 
-This project reflects my dedication to developing innovative solutions for modeling and analyzing social networks, with practical applications in optimization and game theory.  
-
 ➡️ For more details, visit the official repository: [NetMax](https://github.com/lorenzobloise/netmax).  
 
 
