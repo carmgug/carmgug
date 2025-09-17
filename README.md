@@ -1,6 +1,5 @@
 # Hi there 👋
-I am a student specializing in Artificial Intelligence and Machine Learning, deeply passionate about all aspects of these fields
-
+I'm an AI Engineer at EY with a background in Computer Engineering, specializing in Artificial Intelligence and Machine Learning at the Università della Calabria. I'm deeply passionate about all aspects of these fields.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carmgug&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&amp;" style="max-width: 100%;" />
 </a>
