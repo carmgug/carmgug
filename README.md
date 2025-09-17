@@ -17,7 +17,15 @@ I co-developed **NetMax** in collaboration with **[Lorenzo Bloise](https://githu
 
 **NetMax** is a Python library that provides the implementation of several algorithms for the **Influence Maximization** problem in social networks. It also addresses the **Competitive Influence Maximization** problem, modeled as an extensive-form strategic game.  
 
-➡️ For more details, visit the official repository: [NetMax](https://github.com/lorenzobloise/netmax).  
+➡️ For more details, visit the official repository: [NetMax](https://github.com/lorenzobloise/netmax).
+
+### [PersonaGen](https://huggingface.co/datasets/MLNTeam-Unical/PersonaGen) 
+
+I contributed to the creation of [**PersonaGen**](https://huggingface.co/datasets/MLNTeam-Unical/PersonaGen), a dataset of persona-driven machine-generated texts produced by open Large Language Models.  
+
+PersonaGen is a dataset of persona-driven machine-generated texts produced by open Large Language Models. PersonaGen is specifically designed to investigate how synthetic persona profiles affect, guide, or manifest in machine-generated texts. We built PersonaGen by pairing curated persona-profiles (i.e., description of characteristics, background, and goals) across eight thematic domains (e.g., Physics, Education, Medicine) with prompts covering various narrative or opinion-style content (e.g., stories, commonsense). Open-ended generations were produced by six representative open Large Language Models, yielding a total of 1.44 million persona-driven generations. PersonaGen supports multiple research tasks, such as machine-generated text attribution, persona category detection, and persona profile identification, thus providing a valuable resource for studying LLM controllability and role-playing behavior, as well as the impact of persona profile conditioning in downstream tasks.
+
+The resource paper is currently under review at **ACM CIKM 2025**. 
 
 
 
