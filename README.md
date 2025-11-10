@@ -25,7 +25,7 @@ I contributed to the creation of [**PersonaGen**](https://huggingface.co/dataset
 
 PersonaGen is a dataset of persona-driven machine-generated texts produced by open Large Language Models. PersonaGen is specifically designed to investigate how synthetic persona profiles affect, guide, or manifest in machine-generated texts. We built PersonaGen by pairing curated persona-profiles (i.e., description of characteristics, background, and goals) across eight thematic domains (e.g., Physics, Education, Medicine) with prompts covering various narrative or opinion-style content (e.g., stories, commonsense). Open-ended generations were produced by six representative open Large Language Models, yielding a total of 1.44 million persona-driven generations. PersonaGen supports multiple research tasks, such as machine-generated text attribution, persona category detection, and persona profile identification, thus providing a valuable resource for studying LLM controllability and role-playing behavior, as well as the impact of persona profile conditioning in downstream tasks.
 
-The resource paper is currently under review at **ACM CIKM 2025**. 
+The resource paper: https://dl.acm.org/doi/pdf/10.1145/3746252.3761611
 
 
 
